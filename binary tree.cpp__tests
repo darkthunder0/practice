@@ -1,0 +1,54 @@
+[
+	{
+		"correct_answers":
+		[
+			"\u0014\n.<---\u0014--->\n.<---\u0014--->"
+		],
+		"test": "20\n10 true 20 true 40 false false true 50 false false true 30 false true 60 true 70 false false false"
+	},
+	{
+		"test": "30\n"
+	},
+	{
+		"test": "49\n50 false false\n"
+	},
+	{
+		"test": "19\n"
+	},
+	{
+		"test": "82\n"
+	},
+	{
+		"test": "28\n"
+	},
+	{
+		"test": "28\n"
+	},
+	{
+		"test": "true\n"
+	},
+	{
+		"test": "true 15 \n"
+	},
+	{
+		"test": "38\n"
+	},
+	{
+		"test": "true \n"
+	},
+	{
+		"test": "true 2999\n"
+	},
+	{
+		"test": "true 20 false\n"
+	},
+	{
+		"test": "10 true 20 fl\n"
+	},
+	{
+		"test": "10 false false\n"
+	},
+	{
+		"test": ""
+	}
+]

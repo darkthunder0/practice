@@ -1,0 +1,41 @@
+[
+	{
+		"test": "10 true 20 true 40 false false true 50 false false true 30 false true 60 true 70 false false false\n\n\n"
+	},
+	{
+		"test": "10 20 30 40 50\n \n40\n495\n45\n45\n4\n5\n4\n\n4\n54\n\n45\n"
+	},
+	{
+		"test": "3 4 5 7 4 \n"
+	},
+	{
+		"test": "10 true 20 false false false\n"
+	},
+	{
+		"test":  "10 true 20 false false false\n"
+	},
+	{
+		"test": "cout<<root->left;"
+	},
+	{
+		"test": "10 true 20 false false false\n"
+	},
+	{
+		"test": "10 false false\n"
+	},
+	{
+		"test": "10 true 20 false false false\n"
+	},
+	{
+		"test": "1000 false 10 true 20 true 40 false false true 50 false false true 30 false true 60 true 70 false false false\n"
+	},
+	{
+		"test": "10 true 20 true 40 false false true 50 false false true 30 false true 60 true 70 false false false\n\n"
+	},
+	{
+		"test": "10 true 20 true 40 false false true 50 false false true 30 false true 60 true 70 false false false\n"
+	},
+	{
+		"test": "10 true 20 true 40 false false true 50 false false false"
+	}
+]
